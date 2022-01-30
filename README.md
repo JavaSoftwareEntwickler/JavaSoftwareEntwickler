@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @JavaSoftwareEntwickler
-- 👀 I'm interested in learning how to program C++, C# and java.
+- 👋 Hi, I’m Max.
+- 👀 I am interested in learning how to program well.
 - 🌱 I’m currently learning java
-- 💞️Soon I will start a first course that will last 8 months.
+- 💞️I started in October 2019 an Analyst Programmer course in Rome.
+The course will run through May 2022.
+I will try to post some of my projects.
 Then I will do another one that will last two years including an internship in a company for 6 months.
 
 mm.java.software@gmail.com
