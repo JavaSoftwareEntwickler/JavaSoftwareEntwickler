@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Max.
-- 👀 I am interested in learning how to program well.
-- 🌱 I’m currently learning java
-- 💞️I started in October 2019 an Analyst Programmer course in Rome.
-The course will run through May 2022.
-I will try to post some of my projects.
-Then I will do another one that will last two years including an internship in a company for 6 months.
+- 👋- 👀- 🌱- 💞️
+-  Hi.
+-  I'm Max, a passionate self-taught back end developer from Italy. My passion for software drives me to care about the architecture and code quality of the things I build.
+
+Whenever I decide to automate and improve my work processes, even if it takes up some of my time at first, I realize that it actually saves me a lot of precious time in the long run, and this is fascinating.
+Those who think like me contact me because I have a good idea about this.
 
 mm.java.software@gmail.com
 
